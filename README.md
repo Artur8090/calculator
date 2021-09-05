@@ -22,4 +22,4 @@ var CalculatorDivide = function(num1, num2) {
 return(num1 / num2);
 };
 
-text("20 / 20 =", CalculatorDivide(104 / 26), 10, 110);
+text("20 / 20 =", CalculatorDivide(104 / 26), 10, 110;
